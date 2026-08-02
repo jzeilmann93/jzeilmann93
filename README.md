@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**jzeilmann93/jzeilmann93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="480" height="364" alt="h" src="https://github.com/user-attachments/assets/5a07adb2-69c5-46aa-97df-c2cae8cd3d3f" />
 
-Here are some ideas to get you started:
+# Welcome to My GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is **Josh**, and I’m a software engineer based in Kansas City, Missouri.
+
+## About Me
+
+🏗️ I enjoy designing frontend architecture, reusable component systems, automated testing infrastructure, and maintainable development workflows.
+
+⚡ I’ve built real-time monitoring platforms used by multinational retailers to track device health, cash exposure, and operational activity.
+
+🧪 I’m experienced with Cypress, Playwright, Jest, React Testing Library, Storybook, and GitLab CI/CD.
+
+🌱 I’m currently exploring AI-assisted development workflows using Codex, Claude, Kiro CLI, custom agent skills, and Git worktrees.
+
+🚤 Outside of software, I’m an avid boater and fisherman. I also enjoy building independent products and e-commerce projects.
+
+💬 Ask me about React architecture, TypeScript, frontend performance, accessibility, GraphQL, or building applications from the ground up.
+
+📫 Reach me at **[joshua.zeilmann@outlook.com](mailto:joshua.zeilmann@outlook.com)**
+
+## Connect With Me
+
+* **Portfolio:** [zeilmann.io](https://zeilmann.io)
+* **LinkedIn:** [linkedin.com/in/joshuazeilmann](https://linkedin.com/in/joshuazeilmann)
+* **GitHub:** `YOUR_GITHUB_USERNAME`
+
+## Tech Stack
+
+### Frontend
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Remix` · `Redux` · `Vite` · `HTML` · `CSS` · `Sass` · `Tailwind CSS`
+
+### Architecture and APIs
+
+`GraphQL` · `REST APIs` · `Micro-frontends` · `Component Libraries` · `State Management` · `Accessibility`
+
+### Testing
+
+`Playwright` · `Cypress` · `Jest` · `React Testing Library` · `Storybook`
+
+### Backend and Data
+
+`C#` · `.NET` · `Node.js` · `PostgreSQL` · `MongoDB` · `Supabase` · `Firebase`
+
+### Cloud and Tooling
+
+`AWS` · `CloudWatch` · `GitLab CI/CD` · `Docker` · `LogRocket` · `Chrome DevTools` · `Lighthouse`
+
+## GitHub Stats
+
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true)
+
+![Joshua's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)

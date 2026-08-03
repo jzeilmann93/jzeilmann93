@@ -24,7 +24,6 @@ My name is **Josh**, and I’m a software engineer based in Kansas City, Missour
 
 * **Portfolio:** [zeilmann.io](https://zeilmann.io)
 * **LinkedIn:** [linkedin.com/in/joshuazeilmann](https://linkedin.com/in/joshuazeilmann)
-* **GitHub:** `YOUR_GITHUB_USERNAME`
 
 ## Tech Stack
 
@@ -47,9 +46,3 @@ My name is **Josh**, and I’m a software engineer based in Kansas City, Missour
 ### Cloud and Tooling
 
 `AWS` · `CloudWatch` · `GitLab CI/CD` · `Docker` · `LogRocket` · `Chrome DevTools` · `Lighthouse`
-
-## GitHub Stats
-
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true)
-
-![Joshua's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)

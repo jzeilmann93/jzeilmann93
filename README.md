@@ -1,5 +1,4 @@
-
-<img width="420" height="322" alt="surf-the-net" src="https://github.com/user-attachments/assets/f3d00e42-0dc0-4812-a792-7e2bacb663a9" />
+<img width="480" height="449" alt="giphy" src="https://github.com/user-attachments/assets/7a86b272-afab-44a6-a499-208a32088839" />
 
 
 # Welcome to My GitHub

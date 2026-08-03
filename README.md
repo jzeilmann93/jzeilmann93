@@ -1,5 +1,4 @@
-<img width="480" height="449" alt="giphy" src="https://github.com/user-attachments/assets/7a86b272-afab-44a6-a499-208a32088839" />
-
+<img width="464" height="360" alt="giphy (1)" src="https://github.com/user-attachments/assets/b4291aba-0643-4e7e-85d2-039da8bcb97d" />
 
 # Welcome to My GitHub
 
